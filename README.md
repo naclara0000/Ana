@@ -71,17 +71,19 @@ Busco oportunidades nas áreas de Tecnologia e Administrativa para adquirir expe
 ### 📊 Estatísticas
 
 <div align="center">
+
   <img
-    alt="GitHub Stats"
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=naclara0000&show_icons=true&theme=radical"
+    alt="GitHub Stats"
   />
 
   <img
-    alt="Tecnologias mais utilizadas"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naclara0000&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naclara0000&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
+    alt="Tecnologias"
   />
+
 </div>
 
 # Ana
